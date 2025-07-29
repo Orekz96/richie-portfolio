@@ -46,27 +46,23 @@ export const PROJECTS = [
     description:
       "A fully functional website which compares movies based on factors like IMDB Rating, Awards and Nominations, IMDB Votes, Box Office, Metascore, and so on. ",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    href: "https://duelflix.netlify.app/",
   },
   {
-    title: "Task Management App",
+    title: "Product Store",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "A mini e-commerce website that allows users to post items for sales. Users can add product name, product price, and Image URL to display product Image.",
+    technologies: ["React", "Node Js", "Mongo DB", "Chakra UI"],
+    href: "",
   },
   {
-    title: "Portfolio Website",
+    title: "Omni-Food Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "An Web App to help users order healthy food, and have it delivered to their doorsteps ",
+    technologies: ["HTML", "CSS"],
+    href: "https://omnie-foodie.netlify.app/",
   },
 ];
 
